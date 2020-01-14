@@ -1,0 +1,12 @@
+[submodule "web_app"]
+	path = web_app
+	url = https://github.com/luislira22/MyOwnCutlerySPA.git
+[submodule "master_data"]
+	path = master_data
+	url = https://github.com/luislira22/MyOwnCutleryMD.git
+[submodule "order_management"]
+	path = order_management
+	url = https://github.com/luislira22/MyOwnCutleryOM.git
+[submodule "production_planning"]
+	path = production_planning
+	url = https://github.com/luislira22/MyOwnCutleryPP.git
